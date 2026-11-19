@@ -6,6 +6,8 @@
   <a href="ignr"><img src="https://img.shields.io/github/license/LinkON809/Merolith" alt="MIT License"></a>
 </p>
 
+## :information_source: About
+
 **Merolith** is an open source GNU GPL v3 hardware project designed to take any piece of small computing hardware you have lying around and turn it into a compact, retro, Blackberry styled device that can be modded and tweaked to your liking.
 
 ## :wrench: Requirements
