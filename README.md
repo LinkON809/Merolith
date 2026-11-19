@@ -6,6 +6,7 @@
   <a href="ignr"><img src="https://img.shields.io/github/license/LinkON809/Merolith" alt="MIT License"></a>
 </p>
 
+## ℹ️ About
 **Merolith** is a <description, idk miles fix it>
 
 ## :wrench: Requirements
