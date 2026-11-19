@@ -32,4 +32,4 @@ Merolith is licensed under GNU GPL v3.
 
 This project incorporates and modifies software from [Nura](https://gitlab.nura.eco/nura) (formerly postmarketOS). Original authors retain copyright to their respective contributions.
 
-See [LICENSE](https://github.com/LinkON809/Merolith/blob/main/LICENSE) for details.
+See [LICENSE](https://github.com/LinkON809/Merolith/blob/main/LICENSE) & [CREDIT](https://github.com/LinkON809/Merolith/blob/main/CREDIT.md) for details.
