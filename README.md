@@ -3,7 +3,7 @@
   <a href="https://github.com/LinkON809/Merolith/issues" target="_blank"><img src="https://img.shields.io/github/issues/LinkON809/Merolith?" alt="Badge showing the total of project issues"/>
    <a href="https://github.com/LinkON809/Merolith/releases" target="_blank"><img src="https://img.shields.io/badge/status-unreleased-red"/>
   <a href="https://github.com/torvalds/linux"><img src="https://jaywcjlove.github.io/sb/ico/linux.svg" alt="Linux"></a>
-  <a href="ignr"><img src="https://img.shields.io/github/license/LinkON809/Merolith?style=flat-square" alt="MIT License"></a>
+  <a href="ignr"><img src="https://img.shields.io/github/license/LinkON809/Merolith" alt="MIT License"></a>
 </p>
 
 **Merolith** is a <description, idk miles fix it>
