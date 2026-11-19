@@ -21,13 +21,13 @@ Documentation is found at [our GitHub documentation](https://github.com/LinkON80
 
 For support, just reach out in the [issues](https://github.com/LinkON809/Merolith/issues) tab.
 
-## Contributors
+## ➕ Contributors
 
 <a href="https://github.com/LinkON809/Merolith/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LinkON809/Merolith" alt="Code Contributors" style="max-width:100%;">
 </a>
 
-## Attribution
+## 🏅 Attribution
 Merolith is licensed under GNU GPL v3.
 
 This project incorporates and modifies software from [Nura](https://gitlab.nura.eco/nura) (formerly postmarketOS). Original authors retain copyright to their respective contributions.
