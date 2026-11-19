@@ -6,12 +6,11 @@
   <a href="ignr"><img src="https://img.shields.io/github/license/LinkON809/Merolith" alt="MIT License"></a>
 </p>
 
-## ℹ️ About
-**Merolith** is a <description, idk miles fix it>
+**Merolith** is an open source GNU GPL v3 hardware project designed to take any piece of small computing hardware you have lying around and turn it into a compact, retro, Blackberry styled device that can be modded and tweaked to your liking.
 
 ## :wrench: Requirements
 
-- Either an arm or x86 chipped board
+- Any ARM, x86 or RISC-V, SBC, MCU, or SOM you can get your hands on, anything that can drive a screen via DP or SPI and take a USB-HID/SPI input works
 - A brain (Optional)
 
 ## :blue_book: Documentation
