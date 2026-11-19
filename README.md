@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://files.catbox.moe/kjuxgt.png"><img src="https://files.catbox.moe/kjuxgt.png" alt="Merolith">
+  <a href="https://github.com/LinkON809/Merolith/blob/main/Resources/Merolith%20Banner.png?raw=true"><img src="https://github.com/LinkON809/Merolith/blob/main/Resources/Merolith%20Banner.png?raw=true" alt="Merolith">
   <a href="https://github.com/LinkON809/Merolith/issues" target="_blank"><img src="https://img.shields.io/github/issues/LinkON809/Merolith?"/>
    <a href="https://github.com/LinkON809/Merolith/releases" target="_blank"><img src="https://img.shields.io/badge/status-unreleased-red"/>
   <a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/linux-postmarket-yellow?logo=linux" alt="Linux"></a>
